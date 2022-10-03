@@ -1,6 +1,8 @@
 body {
     background-color: white;
     font-family: sans-serif;
+    margin: 0 px;
+    padding: 0 px;
 }
 
 nav {
@@ -30,11 +32,13 @@ nav {
 
 .signin:hover {
     background-color: rgb(8, 80, 190);
+    cursor: pointer;
 }
 
 .gmail:hover,
 .images:hover {
     text-decoration: underline;
+    cursor: pointer;
 }
 
 .image {
@@ -61,6 +65,7 @@ nav {
 
 #search:hover {
     background-color: rgb(230, 226, 226);
+    cursor: pointer;
 }
 
 .doodles,
@@ -78,6 +83,7 @@ nav {
 .doodles:hover,
 .button:hover {
     background-color: rgb(207, 207, 207);
+    cursor: pointer;
 }
 
 .translate {
@@ -109,4 +115,5 @@ nav {
 #i:hover {
     color: red;
     text-decoration: underline red;
+    cursor: pointer;
 }
