@@ -11,15 +11,15 @@ nav {
     text-align: right;
 }
 
-#gmail,
-#images {
+.gmail,
+.images {
     color: black;
     text-decoration: none;
     padding: 2px;
     margin: 2px;
 }
 
-#signin {
+.signin {
     color: white;
     text-decoration: none;
     background-color: rgb(15, 103, 236);
@@ -28,12 +28,12 @@ nav {
     border-radius: 4px;
 }
 
-#signin:hover {
+.signin:hover {
     background-color: rgb(8, 80, 190);
 }
 
-#gmail:hover,
-#images:hover {
+.gmail:hover,
+.images:hover {
     text-decoration: underline;
 }
 
