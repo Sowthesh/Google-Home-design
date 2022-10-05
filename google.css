@@ -1,12 +1,12 @@
 body {
     background-color: white;
     font-family: sans-serif;
-    margin: 0 px;
-    padding: 0 px;
+    margin: 0%;
+    padding: 0%;
 }
 
 nav {
-    padding: 15px;
+    padding: 1%;
 }
 
 .links {
@@ -17,16 +17,16 @@ nav {
 .images {
     color: black;
     text-decoration: none;
-    padding: 2px;
-    margin: 2px;
+    padding: 0.4%;
+    margin: 0.4%;
 }
 
 .signin {
     color: white;
     text-decoration: none;
     background-color: rgb(15, 103, 236);
-    padding: 8px 18px;
-    margin: 3px;
+    padding: 0.5% 1%;
+    margin: 0.8% 0.4%;
     border-radius: 4px;
 }
 
@@ -43,24 +43,24 @@ nav {
 
 .image {
     display: block;
-    margin: 50px auto 20px;
-    width: 380px;
+    margin: 5% auto 2%;
+    width: 25%;
 }
 
 #search {
     display: block;
-    margin: 20px auto;
-    width: 550px;
-    height: 40px;
-    font-size: 18px;
-    border: 0.1px solid grey;
-    border-radius: 30px;
+    margin: 1% auto;
+    width: 40%;
+    height: 2.25em;
+    font-size: 1em;
+    border: 0.01em solid grey;
+    border-radius: 1.9em;
     background-image: url('searchicon.png');
     background-repeat: no-repeat;
-    background-size: 20px;
-    background-position: 15px 10px;
-    padding-left: 50px;
-    box-shadow: 1px 1px 4px;
+    background-size: 1.1em;
+    background-position: 1em 0.75em;
+    padding-left: 3em;
+    box-shadow: 0.5px 0.5px 2px;
 }
 
 #search:hover {
@@ -70,14 +70,14 @@ nav {
 
 .doodles,
 .button {
-    font-size: 20px;
+    font-size: 1em;
     color: black;
     text-decoration: none;
-    border: 1.5px solid grey;
+    border: 0.05em solid grey;
     background-color: rgb(232, 230, 230);
-    padding: 4px 15px 4px;
-    margin: 10px 6px 5px;
-    border-radius: 7px;
+    padding: 0.2em 0.6em 0.2em;
+    margin: 0.5em 0.5em 0.4em;
+    border-radius: 0.4em;
 }
 
 .doodles:hover,
@@ -87,7 +87,7 @@ nav {
 }
 
 .translate {
-    margin: 25px;
+    margin: 3%;
 }
 
 #a,
@@ -100,7 +100,7 @@ nav {
 #h,
 #i {
     text-decoration: none;
-    padding: 0px 2px 0px;
+    padding: 0em 0.18em 0em;
     word-wrap: wrap;
 }
 
